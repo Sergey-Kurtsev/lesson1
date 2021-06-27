@@ -8,5 +8,7 @@
 /project-template.xml
 /vcs.xml
 /workspace.xml
-/.gitignore
 /.idea/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/vcs.xml
