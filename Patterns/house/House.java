@@ -28,11 +28,3 @@ public class House {
         return "The House has " + floors + ", a total square is " + square;
     }
 }
-//    public int getFloors(int floors) {
-//        return floors;
-//    }
-//
-//    public int getSquare(int square) {
-//        return square;
-//    }
-//}
